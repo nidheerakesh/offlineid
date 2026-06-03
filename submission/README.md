@@ -15,6 +15,7 @@ on-device in about 51 ms on a host CPU.
 
 - **Source code:** https://github.com/moneytosms/offlineid
 - **Offline release APK (v1.4.0):** https://github.com/moneytosms/offlineid/releases/tag/v1.4.0
+- **Demo video:** https://drive.google.com/file/d/1ENnZUZL7irgVVV_VfYtbC29dERUg1aRo/view?usp=sharing
 
 ---
 
